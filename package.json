@@ -22,5 +22,10 @@
     "galosh.js": "./cli.js"
   },
   "homepage": "https://github.com/comp426-2022-fall/a02-ReneeDu320#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "minimist": "^1.2.7",
+    "moment-timezone": "^0.5.38",
+    "node-fetch": "^3.2.10"
+  }
 }
