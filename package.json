@@ -1,0 +1,26 @@
+{
+  "name": "isreneds",
+  "version": "1.0.0",
+  "description": "hw3",
+  "main": "index.js",
+  "scripts": {
+    "test": "node cli.js -n 35.92 -w 79.05 -z America/New_York"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-fall/a02-ReneeDu320.git"
+  },
+  "keywords": [
+    "hw3"
+  ],
+  "author": "Renee Du",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-fall/a02-ReneeDu320/issues"
+  },
+  "bin": {
+    "galosh.js": "./cli.js"
+  },
+  "homepage": "https://github.com/comp426-2022-fall/a02-ReneeDu320#readme",
+  "type": "module"
+}
